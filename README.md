@@ -76,8 +76,6 @@ npm start
 yarn start
 ```
 
-Open in Browser:
-Navigate to http://localhost:3000 in your browser to view the app.
 
 ### **📄 Usage**
 Period Tracker: Input your last menstrual period, and the tracker will predict your next cycle. Download your personalized calendar for offline use.
